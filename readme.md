@@ -14,11 +14,13 @@
 
 ### 3.1    登录页
 
-![image-20240803093406402](C:\Users\22592\AppData\Roaming\Typora\typora-user-images\image-20240803093406402.png)
+![Uploading image.png…]()
+
 
 新用户
 
-![image-20240803093444734](C:\Users\22592\AppData\Roaming\Typora\typora-user-images\image-20240803093444734.png)
+![Uploading image.png…]()
+
 
 老用户
 
